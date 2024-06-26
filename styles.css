@@ -1,0 +1,48 @@
+/* styles.css */
+
+/* Ganti warna latar belakang body menjadi pink */
+body {
+  background-color: #ffa9d5; /* Warna pink */
+}
+
+/* Gaya untuk bagian header */
+.hero {
+  background-color: #ffa9d5; /* Warna pink */
+  color: #fff; /* Warna teks putih */
+  padding: 100px 0;
+  text-align: center;
+}
+
+/* Gaya untuk tombol scroll ke #about */
+.btn-scroll {
+  background-color: #f994c8; /* Warna pink */
+  border-color: #f994c8;
+  color: #fff; /* Warna teks putih */
+}
+
+.btn-scroll:hover {
+  background-color: #f994c8; /* Warna pink lebih gelap saat dihover */
+}
+
+/* Gaya untuk bagian tentang (section #about) */
+#about {
+  background-color: #f994c8;/* Warna background pink */
+  color: #333; /* Warna teks lebih gelap untuk kontras */
+  padding: 100px 0;
+  text-align: center;
+}
+
+/* Gaya untuk bagian kenangan kita (section .bg-light) */
+.bg-light {
+  background-color: #ffa9d5; /* Warna background pink */
+  padding: 100px 0;
+  text-align: center;
+}
+
+/* Gaya untuk bagian terima kasih (section #thankyou) */
+#thankyou {
+  background-color: #ffa9d5; /* Warna pink */
+  color: #fff; /* Warna teks putih */
+  padding: 100px 0;
+  text-align: center;
+}
